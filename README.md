@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-css-card-using-bootstrap-RYHl01KOl#comment-6169b7c2ef6660213e7499d7
+- Live Site URL: https://order-summarycompn.netlify.app/
 
 ## My process
 
