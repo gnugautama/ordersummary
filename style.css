@@ -1,13 +1,19 @@
 body {
   background-image: url(/img/pattern-background-desktop.svg);
-  object-fit: cover;
   background-repeat: no-repeat; /*so the image won't be half*/
+  background-size: contain;
+  background-color: #e0e8ff;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
+  width: 18rem;
   margin: auto;
   text-align: center;
   font-family: "Red Hat Display", sans-serif;
